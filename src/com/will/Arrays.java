@@ -45,7 +45,7 @@ public class Arrays {
         /*is if the code requires a loop,
         it's gonna be linear time.
         If the code does not require a loop,
-        then it's constant time.*/
+        then it's constant time!*/
 
     }
 }
