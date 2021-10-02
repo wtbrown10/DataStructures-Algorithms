@@ -11,7 +11,7 @@ public class Arrays {
         the steps to retrieve never changes.
         And when we have this situation,
         we have what's known as constant time complexity
-        and that's designated by O of one.*/
+        and that's designateed by O of one.*/
 
         int intArray[] = new int[7];
         intArray[0] = 20;
